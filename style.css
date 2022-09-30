@@ -1,0 +1,18 @@
+.botaoWhats:hover{
+    background-color: green;
+    border-radius: 2em;
+    transition: 0.5s;
+}
+
+.botaoInsta:hover{
+    background-color: brown;
+    border-radius: 2em;
+    transition: 0.5s;
+}
+
+.botaoFace:hover{
+    background-color: rgb(48, 132, 211);
+    border-radius: 2em;
+    transition: 0.5s;
+}
+
