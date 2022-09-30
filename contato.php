@@ -12,7 +12,7 @@
     <header>
             <nav class="navbar navbar-expand-lg navbar-light d-flex justify-content-between px-5 bg-light">
                 <a class="navbar-brand position-relative" href="index.php">
-                    <img src="logo_cafe-removebg.png" alt="logo" class="w-50">
+                    <img src="images/logo_cafe-removebg.png" alt="logo" class="w-50">
                 </a>
                 <div class="" id="navbarNav">
                     <ul class="navbar-nav">
@@ -20,7 +20,7 @@
                         <a class="nav-link" href="index.php">Home</a>
                     </li>
                     <li class="nav-item h4 text-pop-up-top">
-                        <a class="nav-link" href="#">Quem Somos</a>
+                        <a class="nav-link" href="quemSomos.php">Quem Somos</a>
                     </li>
                     <li class="nav-item h4 text-pop-up-top">
                         <a class="nav-link" href="contato.php">Contato</a>
