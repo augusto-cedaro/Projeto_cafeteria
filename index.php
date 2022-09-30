@@ -43,6 +43,23 @@
             <img src="images/cafe1.jpg" alt="xicara de café" class="w-100">
         </div>
     </main>
+    <section class="container-fluid row">
+        <div class="col-12 d-flex justify-content-center p-5">
+           <p class="h3">Nossa Localização</p>
+        </div>
+           <div class="col-12 d-flex justify-content-center pb-4">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3661.1795075651767!2d-51.94153948554687!3d-23.417881862193248!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ecd7be26deb2e5%3A0x49ebdc81261d048a!2sThe%20Coffee!5e0!3m2!1spt-BR!2sbr!4v1664562999316!5m2!1spt-BR!2sbr" 
+                    width="800" 
+                    height="450" 
+                    style="border:0;" 
+                    allowfullscreen="" 
+                    loading="lazy" 
+                    referrerpolicy="no-referrer-when-downgrade"
+                    class="border border-dark border-2 rounded">
+                </iframe>
+           </div> 
+
+    </section>
     <footer class="container-fluid">
         <div class="row bg-dark">
             <div class="col-4 d-flex justify-content-center">
